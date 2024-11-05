@@ -66,3 +66,18 @@ header {
 
     color: rgb(70, 255, 184);
 }
+
+button {
+    border: solid 1px violet;
+
+    background-color: black;
+
+    color: cyan;
+
+    margin: 10px;
+
+}
+
+button:hover {
+    background-color: rgb(255, 149, 62);
+}
