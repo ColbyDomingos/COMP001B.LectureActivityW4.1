@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+aside {
+    float: left;
+    width: 8%;
+    height: 100%;
+    padding-right: 5px;
+    background-color: violet;
+
+    border: solid 1px black;
+    border-radius: 10%;
+
+    a {
+        text-decoration: none;
+        color: purple;
+    }
+
+    ul {
+        list-style-type: none;
+        padding-left: 10%;
+    }
+}
+
+header {
+    text-align: center;
+
+    background-color: black;
+
+    color: cyan;
+}
+
+#introH3 {
+    text-align: center;
+    color: cyan;
+}
